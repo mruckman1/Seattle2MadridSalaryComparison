@@ -33,6 +33,19 @@ The core calculation logic aims to find the target compensation that provides eq
 6.  **Total Compensation:** The calculated target gross base + bonus is added to the converted RSUs to get the total equivalent compensation.
 7.  **Monthly & Projections:** Monthly figures are derived from annual totals, and projections apply growth rates iteratively to the base inputs.
 
+## Screenshots 📸
+
+*(Add screenshots of the application here)*
+
+* **Quick Calculator Tab:**
+    ![Screenshot of Main Page Tab](assets/MainPage.png)
+* **Monthly Breakdown Tab:**
+    ![Screenshot of Monthly Breakdown Tab](assets/MonthlyBreakdown.png)
+* **Multi-Year Projection Tab:**
+    ![Screenshot of Multi Year Projection Tab](assets/MultiYearProjection.png)
+* **Advanced Settings & Sidebar:**
+    ![Screenshot of Advanced Settings Tab](assets/AdvancedSettings.png)
+
 ## Getting Started 🚀
 
 To run this application locally:
@@ -43,8 +56,8 @@ To run this application locally:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/mruckman1/Seattle2MadridSalaryComparison
+    cd Seattle2MadridSalaryComparison
     ```
 
 3.  **Install Dependencies:**
