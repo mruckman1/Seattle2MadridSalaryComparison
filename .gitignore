@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+.pylint.d/
+
+# Pyre
+.pyre/
+
+# Bandit
+.bandit/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python environment variables
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# IDEs and editors
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Notebooks (optional if not in version control)
+*.ipynb
