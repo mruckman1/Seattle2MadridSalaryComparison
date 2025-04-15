@@ -35,8 +35,6 @@ The core calculation logic aims to find the target compensation that provides eq
 
 ## Screenshots 📸
 
-*(Add screenshots of the application here)*
-
 * **Quick Calculator Tab:**
     ![Screenshot of Main Page Tab](assets/MainPage.png)
 * **Monthly Breakdown Tab:**
